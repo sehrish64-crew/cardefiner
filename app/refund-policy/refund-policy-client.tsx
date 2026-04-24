@@ -22,13 +22,13 @@ export default function RefundPolicyPageClient() {
 
           <section>
             <h2 className="text-2xl font-semibold text-green-400">Introduction to the Services</h2>
-            <p className="mt-3">These Terms and Conditions ("Agreement") form a legally binding contract between you ("Buyer", "you", or "your"), <strong>Paypro Global</strong> (as defined below), and <strong>Quick Transporter</strong> ("Supplier", "we", "our", or "us") and govern your use of the services provided via <strong>cardefiner.com</strong>.</p>
+            <p className="mt-3">These Terms and Conditions ("Agreement") form a legally binding contract between you ("Buyer", "you", or "your"), <strong>Paddle</strong> (as defined below), and <strong>Quick Transportation LLC</strong> ("Supplier", "we", "our", or "us") and govern your use of the services provided via <strong>cardefiner.com</strong>.</p>
             <p className="mt-3"><strong>cardefiner</strong> is a digital vehicle history platform powered by billions of verified records from 900+ global databases. We provide instant access to comprehensive vehicle reports including ownership history, accident records, odometer readings, title information, damage assessment, and theft records to help buyers make safer, smarter, and more transparent car purchasing decisions.</p>
-            <p className="mt-3"><strong>Paypro Global is the Merchant of Record and authorised reseller</strong> of the Products offered by Quick Transporter. This means that payments are processed by Paypro Global, but the Product is <strong>licensed and provided by Quick Transporter</strong>.</p>
-            <p className="mt-3">By placing an order through Paypro Global, you agree to both:</p>
+            <p className="mt-3"><strong>Paddle is the Merchant of Record and authorised reseller</strong> of the Products offered by Quick Transportation LLC. This means that payments are processed by Paddle, but the Product is <strong>licensed and provided by Quick Transportation LLC</strong>.</p>
+            <p className="mt-3">By placing an order through Paddle, you agree to both:</p>
             <ul className="mt-3 space-y-2 list-disc list-inside">
               <li>These Terms & Conditions, and</li>
-              <li>The Supplier Agreement provided by Quick Transporter</li>
+              <li>The Supplier Agreement provided by Quick Transportation LLC</li>
             </ul>
           </section>
 
@@ -47,16 +47,16 @@ export default function RefundPolicyPageClient() {
             <ul className="mt-3 space-y-3">
               <li><strong>Consumer:</strong> A Buyer purchasing for personal, non-commercial use</li>
               <li><strong>Digital Content:</strong> Data supplied in digital form, including vehicle history reports</li>
-              <li><strong>Paypro Global:</strong>
+              <li><strong>Paddle:</strong>
                 <ul className="mt-2 ml-4 space-y-1 list-disc list-inside">
                   <li><strong>UK :</strong> Berkeley Square House, Berkeley Square, London W1J 6BD, United Kingdom
                   </li>
-                  {/* <li><strong>Rest of World:</strong> Paypro Global.com Market Limited, Judd House, 18-29 Mora Street, London EC1V 8BT, UK</li> */}
+                  {/* <li><strong>Rest of World:</strong> Paddle Market Limited (or applicable Paddle entity)</li> */}
                 </ul>
               </li>
-              <li><strong>Product:</strong> Digital vehicle history reports and related services provided by Quick Transporter</li>
-              <li><strong>Supplier:</strong> Quick Transporter</li>
-              <li><strong>Services:</strong> Online services enabling the purchase and delivery of Products via Paypro Global</li>
+              <li><strong>Product:</strong> Digital vehicle history reports and related services provided by Quick Transportation LLC</li>
+              <li><strong>Supplier:</strong> Quick Transportation LLC</li>
+              <li><strong>Services:</strong> Online services enabling the purchase and delivery of Products via Paddle</li>
               <li><strong>Transaction:</strong> Purchase of a Product through the Services</li>
             </ul>
           </section>
@@ -67,25 +67,25 @@ export default function RefundPolicyPageClient() {
             <ol className="mt-3 space-y-2 list-decimal list-inside">
               <li>You select a Product on cardefiner.com</li>
               <li>You agree to the Supplier's terms</li>
-              <li>Paypro Global issues an invoice or processes payment</li>
+              <li>Paddle issues an invoice or processes payment</li>
               <li>Payment is successfully completed and the Product is delivered</li>
             </ol>
           </section>
 
           <section>
             <h2 className="text-2xl font-semibold text-green-400">Nature of the Product</h2>
-            <p className="mt-3">All Products provided by <strong>Quick Transporter</strong> are <strong>digital vehicle information reports</strong> generated using third-party data sources. Reports are provided <strong>as-is</strong> and reflect information available at the time of generation.</p>
+            <p className="mt-3">All Products provided by <strong>Quick Transportation LLC</strong> are <strong>digital vehicle information reports</strong> generated using third-party data sources. Reports are provided <strong>as-is</strong> and reflect information available at the time of generation.</p>
           </section>
 
           <section>
             <h2 className="text-2xl font-semibold text-green-400">Payments, Taxes & Pricing</h2>
             <ul className="mt-3 space-y-2 list-disc list-inside">
-              <li>Payments are processed securely by Paypro Global</li>
-              <li>Applicable taxes (VAT, GST, sales tax) are calculated and collected by Paypro Global</li>
+              <li>Payments are processed securely by Paddle</li>
+              <li>Applicable taxes (VAT, GST, sales tax) are calculated and collected by Paddle</li>
               <li>Prices may change at any time without notice</li>
               <li>You agree to receive invoices and receipts electronically</li>
             </ul>
-            <p className="mt-3">Quick Transporter is not responsible for delivery failure caused by incorrect customer information.</p>
+            <p className="mt-3">Quick Transportation LLC is not responsible for delivery failure caused by incorrect customer information.</p>
           </section>
 
           <section>
@@ -103,7 +103,7 @@ export default function RefundPolicyPageClient() {
                   </ul>
                 </li>
               </ul>
-              <p className="mt-3">All refund requests are handled <strong>at Paypro Global's discretion</strong>.</p>
+              <p className="mt-3">All refund requests are handled <strong>at Paddle's discretion</strong>.</p>
             </div> */}
 
             {/* <div className="mt-6 ml-4">
@@ -118,12 +118,12 @@ export default function RefundPolicyPageClient() {
 
             <div className="mt-6 ml-4">
               <h3 className="text-xl font-semibold text-green-300">Refund Policy</h3>
-              <p className="mt-2 font-semibold text-gray-900">All plans are charged as a one-time payment. No monthly or recurring fees.</p>
-              <p className="mt-2">We offer a 14-day money-back guarantee on all purchases. If you are not satisfied for any reason within 14 days of purchase, simply contact support with your order details and we will issue a full refund. Refunds are processed through Paypro Global and returned via the original payment method.</p> <br />
+              <p className="mt-2 font-semibold text-[#ccc]">All plans are charged as a one-time payment. No monthly or recurring fees.</p>
+              <p className="mt-2">We offer a 14-day money-back guarantee on all purchases. If you are not satisfied for any reason within 14 days of purchase, simply contact support with your order details and we will issue a full refund. Refunds are processed through Paddle and returned via the original payment method.</p> <br />
               ✔ No conditions <br />
               ✔ No exceptions <br />
               ✔ No discretionary language <br />
-              ✔ Fully Paypro Global-compliant
+              ✔ Fully Paddle-compliant
             </div>
 
             <div className="mt-6 ml-4">
@@ -141,7 +141,7 @@ export default function RefundPolicyPageClient() {
 
             {/* <div className="mt-6 ml-4">
               <h3 className="text-xl font-semibold text-gray-900">Refund Window</h3>
-              <p className="mt-2">We offer a 14-day refund policy from the date of purchase in accordance with Paypro Global’s refund requirements.</p>
+              <p className="mt-2">We offer a 14-day refund policy from the date of purchase in accordance with Paddle's refund requirements.</p>
               <ul className="mt-2 space-y-2 list-disc list-inside">
                 <li>Refunds will be processed within 3-5 business days</li>
                 <li>The refund will be issued to the original payment method</li>
@@ -157,7 +157,7 @@ export default function RefundPolicyPageClient() {
             {/* 
             <div className="mt-6 ml-4">
               <h3 className="text-xl font-semibold text-gray-900">Partial Refunds</h3>
-              <p className="mt-2">In certain situations, Quick Transporter may offer partial refunds at its discretion when:</p>
+              <p className="mt-2">In certain situations, Quick Transportation LLC may offer partial refunds at its discretion when:</p>
               <ul className="mt-2 space-y-2 list-disc list-inside">
                 <li>The report contains some data but is incomplete</li>
                 <li>There was a minor technical issue causing inconvenience</li>
@@ -183,7 +183,7 @@ export default function RefundPolicyPageClient() {
 
           <section>
             <h2 className="text-2xl font-semibold text-green-400">Limitation of Liability</h2>
-            <p className="mt-3">Quick Transporter and Paypro Global shall not be liable for:</p>
+            <p className="mt-3">Quick Transportation LLC and Paddle shall not be liable for:</p>
             <ul className="mt-3 space-y-2 list-disc list-inside">
               <li>Indirect or consequential damages</li>
               <li>Inaccurate third-party vehicle data</li>
@@ -194,14 +194,14 @@ export default function RefundPolicyPageClient() {
 
           <section>
             <h2 className="text-2xl font-semibold text-green-400">Intellectual Property</h2>
-            <p className="mt-3">All content, reports, branding, and systems on cardefiner.com are the intellectual property of <strong>Quick Transporter</strong> and may not be copied, resold, or redistributed.</p>
+            <p className="mt-3">All content, reports, branding, and systems on cardefiner.com are the intellectual property of <strong>Quick Transportation LLC</strong> and may not be copied, resold, or redistributed.</p>
           </section>
 
           <section>
             <h2 className="text-2xl font-semibold text-green-400">Confidentiality & Privacy</h2>
             <p className="mt-3">All user data is processed securely in accordance with:</p>
             <ul className="mt-3 space-y-2 list-disc list-inside">
-              <li>Paypro Global's Privacy Policy</li>
+              <li>Paddle's Privacy Policy</li>
               <li>Applicable data protection laws</li>
             </ul>
           </section>
@@ -218,7 +218,7 @@ export default function RefundPolicyPageClient() {
           <section>
             <h2 className="text-2xl font-semibold text-green-400">Contact Information</h2>
             <div className="mt-4 bg-blue-50 p-4 rounded-lg border border-blue-200 space-y-2">
-              <p className="text-gray-700"><strong>Supplier:</strong> Quick Transporter</p>
+              <p className="text-gray-700"><strong>Supplier:</strong> Quick Transportation LLC</p>
               <p className="text-gray-700"><strong>Website:</strong> <a href="https://cardefiner.com" className="text-blue-600 hover:underline">https://cardefiner.com</a></p>
               <p className="text-gray-700"><strong>Support:</strong> <a href="mailto:info@cardefiner.com" className="text-blue-600 hover:underline">info@cardefiner.com</a></p>
               <p className="text-gray-700">We aim to respond within 24-48 hours during business days</p>
@@ -226,7 +226,7 @@ export default function RefundPolicyPageClient() {
           </section>
 
           <section className="bg-gray-50 p-6 rounded-lg border border-gray-200 mt-8">
-            <p className="text-sm text-gray-700"><em>Last updated: January 2026. Quick Transporter values customer satisfaction and is committed to resolving issues promptly and fairly.</em></p>
+            <p className="text-sm text-gray-700"><em>Last updated: January 2026. Quick Transportation LLC values customer satisfaction and is committed to resolving issues promptly and fairly.</em></p>
           </section>
 
         </div>

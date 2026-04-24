@@ -21,7 +21,7 @@ export default function PrivacyPageClient() {
 
         <div className="mt-10 space-y-8 max-w-3xl mx-auto text-gray-100">
           <section>
-            <p className="text-lg font-semibold text-gray-100 mb-4">Quick Transporter, operating cardefiner.com, is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website and use our services.</p>
+            <p className="text-lg font-semibold text-gray-100 mb-4">Quick Transportation LLC, operating cardefiner.com, is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website and use our services.</p>
             <p className="text-gray-300 mb-4"><strong>cardefiner</strong> is a digital vehicle history platform powered by billions of verified records from 900+ global databases. We provide instant access to comprehensive vehicle reports including ownership history, accident records, odometer readings, title information, damage assessment, and theft records to help buyers make safer, smarter, and more transparent car purchasing decisions.</p>
             <div className="bg-gray-900 p-4 rounded-lg border border-cyan-500/30 space-y-3">
               <p className="text-gray-100"><strong>Key Points:</strong></p>
@@ -48,7 +48,7 @@ export default function PrivacyPageClient() {
               <li>Name</li>
               <li>Email address</li>
               <li>Phone number</li>
-              <li>Billing and payment information (processed securely through Paypro Global)</li>
+              <li>Billing and payment information (processed securely through Paddle)</li>
               <li>Vehicle identification information (VIN, license plate)</li>
             </ul>
 
@@ -95,7 +95,7 @@ export default function PrivacyPageClient() {
             <h3 className="text-xl font-semibold text-green-300 mt-5 mb-3">3.1 Service Providers</h3>
             <p className="mt-3">We work with third-party service providers who assist us in operating our website and services:</p>
             <ul className="mt-3 space-y-2 list-disc list-inside">
-              <li>Payment Processors: Paypro Global (for secure payment processing)</li>
+              <li>Payment Processors: Paddle (for secure payment processing)</li>
               <li>Data Providers: Vehicle history data sources</li>
               <li>Analytics Services: Google Analytics and similar tools</li>
               <li>Email Services: For sending communications</li>
@@ -202,7 +202,7 @@ export default function PrivacyPageClient() {
             <h2 className="text-2xl font-semibold text-green-400">14. Contact Us</h2>
             <p className="mt-3">If you have questions about this Privacy Policy or our privacy practices, please contact us:</p>
             <div className="mt-4 bg-blue-50 p-4 rounded-lg border border-blue-200 space-y-2">
-              <p className="text-gray-700"><strong>Quick Transporter</strong></p>
+              <p className="text-gray-700"><strong>Quick Transportation LLC</strong></p>
               <p className="text-gray-700"><strong>Email:</strong> <a href="mailto:info@cardefiner.com" className="text-blue-600 hover:underline">info@cardefiner.com</a></p>
               <p className="text-gray-700"><strong>Website:</strong> <a href="https://cardefiner.com" className="text-blue-600 hover:underline">https://cardefiner.com</a></p>
             </div>
@@ -215,7 +215,7 @@ export default function PrivacyPageClient() {
           </section>
 
           <section className="bg-gray-50 p-6 rounded-lg border border-gray-200 mt-8">
-            <p className="text-sm text-gray-700">This Privacy Policy is effective as of January 1st, 2026. Quick Transporter reserves the right to modify this policy at any time. Your continued use of our services constitutes your acceptance of these terms.</p>
+            <p className="text-sm text-gray-700">This Privacy Policy is effective as of January 1st, 2026. Quick Transportation LLC reserves the right to modify this policy at any time. Your continued use of our services constitutes your acceptance of these terms.</p>
           </section>
         </div>
       </div>

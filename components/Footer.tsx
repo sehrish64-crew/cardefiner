@@ -35,7 +35,7 @@ export default function Footer() {
             <p className="text-[11px] sm:text-xs md:text-sm text-[#d3d3d3]/80 leading-relaxed">
 
               <span className="block mb-2">
-                Quick Transporter VIN Reports. All Rights Reserved. {new Date().getFullYear()} © AutoRevealed. Use of this Website constitutes acceptance of{' '}
+                Quick Transportation LLC VIN Reports. All Rights Reserved. {new Date().getFullYear()} © Cardefiner. Use of this Website constitutes acceptance of{' '}
               </span>
 
               <Link href="/terms" className="hover:text-[#149544] transition">
@@ -53,8 +53,8 @@ export default function Footer() {
               </Link>
 
               <span className="block mt-2">
-                This site is owned and operated by Quick Transporter - an approved NMVTIS data provider.
-                <span className="text-[#d3d3d3]"> Email: Info@AutoRevealed.com</span>
+                This site is owned and operated by Quick Transportation LLC - an approved NMVTIS data provider.
+                <span className="text-[#d3d3d3]"> Email: Info@Cardefiner.com</span>
               </span>
 
             </p>

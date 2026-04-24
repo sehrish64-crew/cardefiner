@@ -21,7 +21,7 @@ const contactInfo = [
   {
     icon: MapPin,
     title: 'Office',
-    details: ['Office No 025-026 Naklath 286'],
+    details: ['8 The Green, Suite A in the city of Dover Zip code 19901'],
     gradient: 'from-green-400 to-cyan-400'
   }
 ]
