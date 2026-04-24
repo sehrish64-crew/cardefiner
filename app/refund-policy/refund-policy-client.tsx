@@ -49,7 +49,7 @@ export default function RefundPolicyPageClient() {
               <li><strong>Digital Content:</strong> Data supplied in digital form, including vehicle history reports</li>
               <li><strong>Paddle:</strong>
                 <ul className="mt-2 ml-4 space-y-1 list-disc list-inside">
-                  <li><strong>UK :</strong> Berkeley Square House, Berkeley Square, London W1J 6BD, United Kingdom
+                  <li><strong>UK :</strong> Judd House, 18-29 Mora Street, London, EC1V 8BT, UK
                   </li>
                   {/* <li><strong>Rest of World:</strong> Paddle Market Limited (or applicable Paddle entity)</li> */}
                 </ul>
